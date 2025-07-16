@@ -1,1 +1,2 @@
-This is a sample python program to understand branching
+## Simple python docker dev example for the official docker docs
+https://docs.docker.com/language/python/containerize/
